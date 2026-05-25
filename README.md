@@ -1,4 +1,4 @@
-# Data and code for the figures in "Herpes simplex virus genomes from an under-sampled population in Namibia reveal novel genetic diversity"
+# Data and code for “Herpes simplex virus genomes from an under-sampled population in Namibia reveal novel genetic diversity” (Figures 2 and 5)
 
 # Structure
 
