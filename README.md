@@ -4,7 +4,7 @@
 
 ```markdown
 ├── data
-└── R code
+└── R
     └── figures.R
 
 ```
@@ -18,7 +18,7 @@
 
 This script includes the code of figures 2 and 5 in the manuscript.
 
-They require data not currently made available. 
+Individual level data cannot be shared publicly, per PSU’s IRB (IRB #STUDY00001510) because they could be identifiable. Aggregated data are available in Blake A, Hazel A, Jakurama J, Matundu J, Bharti N (2023) Disparities in mobile phone ownership reflect inequities in access to healthcare. PLOS Digital Health 2(7): e0000270. https://doi.org/10.1371/journal.pdig.0000270.
 
 All necessary packages are explicitly named when calling the corresponding functions. Make sure to install them first.
 
